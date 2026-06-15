@@ -11,8 +11,8 @@
 
 Sou um apaixonado por tecnologia focado em criar soluções eficientes e código limpo. Atualmente estou focado em aprimorar minhas habilidades em **[Sua tecnologia principal, ex: React / Node.js / Python]** e construindo projetos incríveis.
 
-- 🔭 Atualmente trabalhando em **[Seu Projeto Atual]**
-- 🌱 Aprendendo mais sobre **[O que você está estudando agora]**
+- 🔭 Atualmente trabalhando em **[Programação]**
+- 🌱 Aprendendo mais sobre **[PHP]**
 - 💬 Pergunte-me sobre **[Suas áreas de interesse, ex: Web Development, Clean Code]**
 - ⚡ Curiosidade: **[Uma curiosidade engraçada ou hobby seu, ex: Tomo café frio por opção]**
 
