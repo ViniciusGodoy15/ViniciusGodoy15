@@ -1,5 +1,5 @@
-## Hi there 👋
-# Olá, mundo! Eu sou o [Vinicius Godoy] 👋
+## Salve gurizada
+# é uns guri! Eu sou o Vinicius Godoy 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=41B883&center=true&vCenter=true&width=435&lines=Desenvolvedor+Software;Entusiasta+de+Tecnologia;Criador+de+Solu%C3%A7%C3%B5es" alt="Typing SVG" />
