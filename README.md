@@ -13,8 +13,8 @@ Sou um apaixonado por tecnologia focado em criar soluções eficientes e código
 
 - 🔭 Atualmente trabalhando em **[Programação]**
 - 🌱 Aprendendo mais sobre **[PHP]**
-- 💬 Pergunte-me sobre **[Suas áreas de interesse, ex: Web Development, Clean Code]**
-- ⚡ Curiosidade: **[Uma curiosidade engraçada ou hobby seu, ex: Tomo café frio por opção]**
+- 💬 Pergunte-me sobre **[TUDO, sou uma IA de conhecimentos]**
+- ⚡ Curiosidade: **[Trabalho na Ambev, e gosto de jogar jogos!]**
 
 ---
 
